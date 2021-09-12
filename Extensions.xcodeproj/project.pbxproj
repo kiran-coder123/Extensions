@@ -15,6 +15,7 @@
 		DD4070CE26EDFCFD00A45C9F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD4070CC26EDFCFD00A45C9F /* LaunchScreen.storyboard */; };
 		DD4070D926EDFCFD00A45C9F /* ExtensionsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD4070D826EDFCFD00A45C9F /* ExtensionsTests.swift */; };
 		DD4070E426EDFCFE00A45C9F /* ExtensionsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD4070E326EDFCFE00A45C9F /* ExtensionsUITests.swift */; };
+		DD4070F526EDFDEC00A45C9F /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD4070F426EDFDEC00A45C9F /* CustomTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		DD4070DF26EDFCFD00A45C9F /* ExtensionsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ExtensionsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD4070E326EDFCFE00A45C9F /* ExtensionsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionsUITests.swift; sourceTree = "<group>"; };
 		DD4070E526EDFCFE00A45C9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DD4070F426EDFDEC00A45C9F /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				DD4070C326EDFCFC00A45C9F /* SceneDelegate.swift */,
 				DD4070C526EDFCFC00A45C9F /* ViewController.swift */,
 				DD4070C726EDFCFC00A45C9F /* Main.storyboard */,
+				DD4070F426EDFDEC00A45C9F /* CustomTableViewCell.swift */,
 				DD4070CA26EDFCFD00A45C9F /* Assets.xcassets */,
 				DD4070CC26EDFCFD00A45C9F /* LaunchScreen.storyboard */,
 				DD4070CF26EDFCFD00A45C9F /* Info.plist */,
@@ -260,6 +263,7 @@
 			files = (
 				DD4070C626EDFCFC00A45C9F /* ViewController.swift in Sources */,
 				DD4070C226EDFCFC00A45C9F /* AppDelegate.swift in Sources */,
+				DD4070F526EDFDEC00A45C9F /* CustomTableViewCell.swift in Sources */,
 				DD4070C426EDFCFC00A45C9F /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
